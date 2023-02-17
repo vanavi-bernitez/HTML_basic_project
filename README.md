@@ -8,7 +8,8 @@ Three interconnected web pages.
 
 
 ## How it works 
-(Description of folders and name of the principal) Just clone this repo or use github pages 
+(Description of folders and name of the principal) 
+Clone this repository or use github pages to display the content of the main.html page
 
 
 ```
